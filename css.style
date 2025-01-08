@@ -1,0 +1,46 @@
+/* General styles */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    color: #333;
+    margin: 0;
+    padding: 20px;
+}
+
+/* Header styles */
+h1 {
+    color: #0066cc;
+    text-align: center;
+    border-bottom: 2px solid #0066cc;
+    padding-bottom: 10px;
+}
+
+/* Horizontal rule styles */
+hr {
+    border: 1px solid #0066cc;
+    margin: 20px 0;
+}
+
+/* Section styles */
+section {
+    margin-bottom: 30px;
+}
+
+/* Image styles */
+img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+/* Link styles */
+a {
+    color: #0066cc;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+a:hover {
+    text-decoration: underline;
+}
